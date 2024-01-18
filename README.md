@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RAVINDRA8008
 - 👀 I’m interested in Cloud Computing....
 - 🌱 I’m currently learning Python / HTML / CSS / DSA..
-- 💞️ I’m looking to collaborate on Interns For Cloud Architect..
+- 💞️ I’m looking to collaborate on Interns For Cloud Based Projects..
 - 📫 How to reach me ...
 
 <!---
